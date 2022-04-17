@@ -2,3 +2,5 @@ Select ...from...
 insert
 
 having
+
+select
